@@ -17,15 +17,15 @@
 
 ### 主な利用シーン
 作品投稿側
-　-自分の創作物を見てもらいたいとき
-　-小説の場合はサイトで編集等をどこでも行える
+　*自分の創作物を見てもらいたいとき
+　*小説の場合はサイトで編集等をどこでも行える
 作品閲覧側
-  -自分の好きな時に、ちょっとした空き時間で検索、閲覧ができる
+  *自分の好きな時に、ちょっとした空き時間で検索、閲覧ができる
 ## 設計書
 <...>
 
 ## チャレンジ要素一覧
-<https://docs.google.com/spreadsheets/d/1E4Quehglf9PxM1XTE-ft2X5-hJ5dmoJhsI-UJlgzVmY/edit#gid=0>
+<https://docs.google.com/spreadsheets/d/19kBnAwzGbDY85KMEiKgu_XQNooVmAhv_-iPEu1rVdDM/edit?usp=sharing>
 
 ## 開発環境
 - OS：Linux(CentOS)
